@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name" translatable="false">My First Application</string>
+    <string name="btn_send">SEND</string>
+    <string name="et_message">Enter a message</string>
+</resources>
