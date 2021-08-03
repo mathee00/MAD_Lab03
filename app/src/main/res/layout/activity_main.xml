@@ -37,4 +37,12 @@
         app:layout_constraintStart_toEndOf="@+id/et_message"
         app:layout_constraintTop_toTopOf="parent" />
 
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="147dp"
+        android:layout_height="52dp"
+        android:text="Hey My Friend"
+        tools:layout_editor_absoluteX="99dp"
+        tools:layout_editor_absoluteY="294dp" />
+
 </androidx.constraintlayout.widget.ConstraintLayout>
